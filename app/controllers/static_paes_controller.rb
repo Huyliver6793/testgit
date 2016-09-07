@@ -1,0 +1,2 @@
+class StaticPaesController < ApplicationController
+end
